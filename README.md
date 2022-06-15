@@ -2,7 +2,7 @@ R in the Lab: Response Surface Designs and their Analysis with R
 ================
 A basic tutorial for carrying out the analysis of results of response surface designs.It also discusses how to generate Box-Behnken and Central Composite designs.  
 
-You can read the post for this repository by clicking on: <a href="https://r-inthelab.net/2022/06/15/response-surface-designs-and-their-analysis-with-r/">R in the Lab: Page Title</a>.
+You can read the post for this repository by clicking on: <a href="https://r-inthelab.net/2022/06/15/response-surface-designs-and-their-analysis-with-r/" target="_blank">R in the Lab: Response Surface Designs and their Analysis with R</a>.
 
 Juan Pablo Carreón Hidalgo 🤓
 
